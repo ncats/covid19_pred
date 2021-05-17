@@ -5,9 +5,9 @@ The jupyter notebook for the prediction of SARS-CoV-2 Inhibitors
  using Stratified Bagging models and Morgan fingerprints.
 
 Installation and dependencies
-Anaconda (https://docs.anaconda.com/anaconda/navigator/install/) >= 1.9.12
-Python >= 3.7.7
-Pandas >= 1.0.3
+Anaconda (https://docs.anaconda.com/anaconda/navigator/install/) >= 1.9.12; 
+Python >= 3.7.7; 
+Pandas >= 1.0.3; 
 numpy >= 1.18.1
 
 Usage
