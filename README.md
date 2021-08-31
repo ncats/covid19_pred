@@ -20,3 +20,7 @@ Usage
 6)	The SARS-CoV-2 Inhibitor’s prediction using Stratified Bagging models and Morgan fingerprints will be saved in the ‘output_predictions’ folder.
 
 The folder ‘SB_models’ also contains Stratified Bagging models generated for Avalon Fingerprint and rdKit descriptors (physicochemical properties).
+
+The folder ‘pharmacophore_models’ contains Ligand-based pharmacophore models generated for the first round of screening (LBP-1) and for the second round of screening (LBP-2).
+
+
