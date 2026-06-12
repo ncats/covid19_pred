@@ -1,3 +1,5 @@
+This repository has been archived and is no longer maintained.The code is provided for historical reference and may contain unpatched or unknown vulnerabilities. It should not be used in production systems.
+
 # covid19_pred
 Stratified-bagging models for the prediction of SARS-CoV-2 Inhibitors
 
@@ -22,5 +24,3 @@ Usage
 The folder ‘SB_models’ also contains Stratified Bagging models generated for Avalon Fingerprint and rdKit descriptors (physicochemical properties).
 
 The folder ‘pharmacophore_models’ contains Ligand-based pharmacophore models generated for the first round of screening (LBP-1) and for the second round of screening (LBP-2).
-
-
